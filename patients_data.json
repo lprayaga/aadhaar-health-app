@@ -1,0 +1,41 @@
+{
+    "123456789012": {
+        "name": "Ravi Kumar",
+        "phone": "9876543210",
+        "otp": "123456",
+        "records": [
+            {
+                "date": "2024-12-10",
+                "diagnosis": "Diabetes Type 2",
+                "prescription": "Metformin"
+            },
+            {
+                "date": "2025-02-14",
+                "diagnosis": "Hypertension",
+                "prescription": "Amlodipine"
+            },
+            {
+                "date": "2025-04-05",
+                "diagnosis": "Flu",
+                "prescription": "Zeepack"
+            },
+            {
+                "date": "2025-04-05",
+                "diagnosis": "allergy",
+                "prescription": "claritin"
+            }
+        ]
+    },
+    "987654321098": {
+        "name": "Anjali Sharma",
+        "phone": "9123456789",
+        "otp": "654321",
+        "records": [
+            {
+                "date": "2025-01-05",
+                "diagnosis": "Asthma",
+                "prescription": "Inhaler"
+            }
+        ]
+    }
+}
